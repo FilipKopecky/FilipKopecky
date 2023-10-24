@@ -20,7 +20,7 @@ I'm Filip Kopecký, a passionate learner and enthusiast of data and analytics. W
    - Working on my master thesis (main topic: data ethics)
 
 🔗 **Connect with Me:**
-   - [LinkedIn]([your-linkedin-profile-link](https://www.linkedin.com/in/filip-kopecky/))
+   - [LinkedIn](https://www.linkedin.com/in/filip-kopecky/)
 
 Excited to collaborate and contribute to real projects in world of data!
 
