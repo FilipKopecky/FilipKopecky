@@ -1,6 +1,6 @@
 ### Hello data world 👋
 
-I'm Filip Kopecký, a passionate learner and enthusiast of data and analytics. With roots in economics and management, I've transitioned my journey into data world to seek order in chaos. Continuously exploring this fascinating realm and cultivating skills in Python. Based in Brussels until June, then moving back to the Czech Republic. I'm on the lookout for opportunities to apply my skills and contribute to innovative data-driven projects.
+I'm Filip Kopecký, a passionate learner and enthusiast of data and analytics. With roots in economics and management, I've transitioned my journey into data world to seek order in chaos. Continuously exploring this fascinating realm and cultivating skills in Python.
 
 🎓 **Educational Journey:**
    - Nearing the completion of my Master’s in Data and Analytics for Business
