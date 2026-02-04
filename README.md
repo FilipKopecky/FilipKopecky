@@ -1,28 +1,18 @@
-### Hello data world 👋
+### About me
+Hello 👋 I’m Filip
 
-I'm Filip Kopecký, a passionate learner and enthusiast of data and analytics. With roots in economics and management, I've transitioned my journey into data world to seek order in chaos. Continuously exploring this fascinating realm and cultivating skills in Python.
+I’m a data analyst/engineer on a continuous learning journey. I transitioned from economics and management into the world of data — and I love exploring this landscape.  
+I value clean structure, meaningful projects, and impactful solutions.
 
-🎓 **Educational Journey:**
-   - Nearing the completion of my Master’s in Data and Analytics for Business
-   - Erasmus semester at Carinthia University of Applied Sciences (Austria) focusing on data science
-   - Continuous learning on DataCamp
+### Current focus
+I’m currently solidifying my Python and SQL skills on DataCamp to put them together for some small personal projects.  
+I’m also eager to learn how to utilize AI and become more AI literate.
 
-💼 **Professional Experience:**
-   - 8-month internship at a leading advisory company
-   - Hands-on projects in data management and RPA
+### Skills & tools
+**Languages**: Python, SQL  
+**Tools**: Keboola, Deepnote
 
-🛠 **Technical Skills:**
-   - Intermediate in Python
-   - Experience with data analytics and machine learning
-
-🌱 **Currently Learning:**
-   - Deepening my Python skills
-   - Working on my master thesis (main topic: data ethics)
-
-🔗 **Connect with Me:**
-   - [LinkedIn](https://www.linkedin.com/in/filip-kopecky/)
-
-Excited to collaborate and contribute to real projects in world of data!
+*Feel free to connect here or on [LinkedIn](https://www.linkedin.com/in/filip-kopecky/).*
 
 <!--
 **FilipKopecky/FilipKopecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
